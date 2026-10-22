@@ -10,7 +10,7 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 
 
 - **La facilité d'apprentissage bat la géométrie de la cible**, même quand la solution exacte est dans la famille apprenante : ce sont des bandes de quelques centaines de coefficients qui gagnent.
-- Rester entre les deux bat le RNN qui apprend tout sur les séries synthétiques (100 à 2 000 neurones) ; mieux que le GRU sur un système physique réel (Silverbox) avec 127× moins de paramètres. 10 parties, bilingue, tests CI.
+- Rester entre les deux bat le RNN qui apprend tout sur les séries synthétiques (100 à 2 000 neurones) ; mieux que le GRU sur un système physique réel (Silverbox) avec 127× moins de paramètres
 
 ---
 
@@ -40,4 +40,4 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 
 ## ⚙️ Réseaux à engrenages · [gear-networks](https://github.com/mathisfrinzi/gear-networks)
 
-*Chaque neurone apprend sa fonction d'activation avec un seul paramètre : un angle sur un cycle relu → silu → tanh → identité. Conclu sur un résultat négatif assumé.*
+*Chaque neurone apprend sa fonction d'activation avec un seul paramètre : un angle sur un cycle relu → silu → tanh → identité. Conclu sur un résultat négatif.*
