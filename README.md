@@ -34,6 +34,8 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 - La teinte porte une deuxième information par lecture : la courbure (−30 à −52 % d'évaluations) ou la perte de validation (arrêt précoce lu dans la couleur).
 - À mesures dégradées égales, pas d'avantage : Broyden classique reste moins cher ; fragile au bruit face à CMA-ES.
 
+<img width="1494" height="699" alt="s7_une_descente" src="https://github.com/user-attachments/assets/9bfed6f6-8111-4233-a779-3d4fb23ad8fb" />
+
 ---
 
 ## ⚙️ Réseaux à engrenages · [gear-networks](https://github.com/mathisfrinzi/gear-networks)
