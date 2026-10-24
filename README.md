@@ -38,6 +38,6 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 
 ---
 
-## ⚙️ Réseaux à engrenages · [gear-networks](https://github.com/mathisfrinzi/gear-networks)
+## Réseaux à engrenages · [gear-networks](https://github.com/mathisfrinzi/gear-networks)
 
 *Chaque neurone apprend sa fonction d'activation avec un seul paramètre : un angle sur un cycle relu → silu → tanh → identité. Conclu sur un résultat négatif.*
