@@ -2,8 +2,6 @@
 
 Projets de recherche personnels en IA et mathématiques appliquées :
 
----
-
 ## Entre un réservoir et un RNN · [partially-frozen-rnn](https://github.com/mathisfrinzi/partially-frozen-rnn)
 
 *Une récurrence aléatoire figée dont on n'apprend qu'une pièce choisie (atténuation, rotation, cisaillement…) : que vaut l'espace entre un Echo State Network et un RNN complet ?*
@@ -41,3 +39,11 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 ## Réseaux à engrenages · [gear-networks](https://github.com/mathisfrinzi/gear-networks)
 
 *Chaque neurone apprend sa fonction d'activation avec un seul paramètre : un angle sur un cycle relu → silu → tanh → identité. Conclu sur un résultat négatif.*
+
+---
+
+## Générateur jacobien · [integrable-weights](https://github.com/mathisfrinzi/integrable-weights)
+
+*Entraîner des matrices de poids comme jacobiennes d'une fonction : la contrainte d'intégrabilité vaut-elle quelque chose ?*
+
+---
