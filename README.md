@@ -10,7 +10,7 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 - **La facilité d'apprentissage bat la géométrie de la cible**, même quand la solution exacte est dans la famille apprenante : ce sont des bandes de quelques centaines de coefficients qui gagnent.
 - Rester entre les deux bat le RNN qui apprend tout sur les séries synthétiques (100 à 2 000 neurones) ; mieux que le GRU sur un système physique réel (Silverbox) avec 127× moins de paramètres
 
-<img width="1494" height="699" alt="s7_une_descente" src="https://github.com/mathisfrinzi/partially-frozen-rnn/blob/main/results/figures/schema_budget.png" />
+<img width="996" height="644" alt="s7_une_descente" src="https://github.com/mathisfrinzi/partially-frozen-rnn/blob/main/results/figures/schema_budget.png" />
 
 ---
 
