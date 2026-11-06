@@ -10,6 +10,8 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 - **La facilité d'apprentissage bat la géométrie de la cible**, même quand la solution exacte est dans la famille apprenante : ce sont des bandes de quelques centaines de coefficients qui gagnent.
 - Rester entre les deux bat le RNN qui apprend tout sur les séries synthétiques (100 à 2 000 neurones) ; mieux que le GRU sur un système physique réel (Silverbox) avec 127× moins de paramètres
 
+<img width="1494" height="699" alt="s7_une_descente" src="https://github.com/mathisfrinzi/partially-frozen-rnn/blob/main/results/figures/schema_budget.png" />
+
 ---
 
 ## Un réservoir qui lit son passé · [delay-tensor-esn](https://github.com/mathisfrinzi/delay-tensor-esn)
@@ -19,6 +21,8 @@ Projets de recherche personnels en IA et mathématiques appliquées :
 - **Une règle exacte** : l'état ne peut contenir l'entrée d'il y a L pas que si L est une somme de retards de l'ensemble S. Ça permet de **calculer S à partir des données**, sans réservoir entraîné ni recherche.
 - Sur 13 séries réelles neuves, avec la prévision écrite avant tout calcul : le S calculé bat l'ESN à fuite 10 fois, et la prévision est tenue 10 fois sur 13.
 - Mais il ne bat nettement les délais de Iacob et Dambre que là où l'âge utile est long et isolé, et un ridge linéaire sur 200 âges, sans réservoir, fait souvent aussi bien.
+
+<img width="1494" height="699" alt="s7_une_descente" src="https://github.com/mathisfrinzi/delay-tensor-esn/blob/main/results/schemas/schema_modele.svg" />
 
 ---
 
