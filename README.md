@@ -85,3 +85,15 @@ Projets de recherche personnels en IA et mathématiques appliquées.
 *Entraîner des matrices de poids comme jacobiennes d'une fonction : la contrainte d'intégrabilité vaut-elle quelque chose ?*
 
 <br clear="right"/>
+
+---
+
+## Mes architectures
+
+<img align="right" width="280" alt="Un seul g, trois couches" src="https://github.com/mathisfrinzi/anendophasia-remanence-network/blob/main/figures/architecture.svg?raw=true" />
+
+#### Transformers sur des images · [anendophasia-remanence-network](https://github.com/mathisfrinzi/anendophasia-remanence-network)
+
+*Transformer dont toute la mémoire tient dans deux petites images réécrites à chaque token*
+
+<br clear="right"/>
